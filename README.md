@@ -1,6 +1,5 @@
 
 
-```markdown
 # AI Image Generator UI
 
 ## Overview
